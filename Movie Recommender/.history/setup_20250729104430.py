@@ -1,0 +1,1 @@
+from steuptools import setuppypy
